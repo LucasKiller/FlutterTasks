@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// import 'package:flutter_aula02/widgets/star_widget.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
